@@ -13,11 +13,11 @@
     * Курс: 3 курс
 * Дополнительное образование:
     * Обучаюсь на 3 семестре основной программы Технопарк@Mail.ru 
-* Профиль на github: https://github.com/nikitarub
+* Профиль на github: [https://github.com/nikitarub](https://github.com/nikitarub)
 * Организации на github в которых состою:
-    * https://github.com/studtool
-    * https://github.com/uburu
-    * https://github.com/bombergame
+    * [https://github.com/studtool](https://github.com/studtool)
+    * [https://github.com/uburu](https://github.com/uburu)
+    * [https://github.com/bombergame](https://github.com/bombergame)
 
 ## Опыт работы
 
@@ -26,16 +26,16 @@
 ### Смогу уделять работе 20-25 часов в неделю. 
 
 ### Мои проекты
-* Разработка сайта https://razborzadach.com
-* В рамках учебы в Технопарке разрабатывал онлайн-игру Бомбермен: https://github.com/bombergame
-* В рамках студенческого проекта: веб-приложение по выдачи медицинских рецептур с применением blockchain https://recipechain.now.sh 
+* Разработка сайта [https://razborzadach.com](https://razborzadach.com)
+* В рамках учебы в Технопарке разрабатывал онлайн-игру Бомбермен: [https://github.com/bombergame](https://github.com/bombergame)
+* В рамках студенческого проекта: веб-приложение по выдачи медицинских рецептур с применением blockchain [https://recipechain.now.sh](https://recipechain.now.sh) 
     * ссылки на гитхаб:
-        * https://github.com/uburu/ibmHackFrontend
-        * https://github.com/uburu/ibmHackBackend
-        * https://github.com/uburu/ibmHackBlockchain
-* Разработал лабораторную работу для университета по MongoDB https://github.com/uburu/db_mongo_bmstu
+        * [https://github.com/uburu/ibmHackFrontend](https://github.com/uburu/ibmHackFrontend)
+        * [https://github.com/uburu/ibmHackBackend](https://github.com/uburu/ibmHackBackend)
+        * [https://github.com/uburu/ibmHackBlockchain](https://github.com/uburu/ibmHackBackend)
+* Разработал лабораторную работу для университета по MongoDB [https://github.com/uburu/db_mongo_bmstu](https://github.com/uburu/db_mongo_bmstu)
 
-* На данный момент занимаюсь разработкой системы редактирования документов https://github.com/studtool
+* На данный момент занимаюсь разработкой системы редактирования документов [https://github.com/studtool](https://github.com/studtool)
 
 ### Профессиональные навыки:
 * JavaScript
@@ -61,4 +61,4 @@
 
 Успехи и достижения:
 Занял 2 место в хакатоне "SmartMail_Hack2" от компании @Mail.ru с проектом – составление ленты акций из почтовой рассылки (Как Едадил, только не еда)
-ссылка на презентацию: https://goo.gl/Gu8WFt
+ссылка на презентацию: [https://goo.gl/Gu8WFt](https://goo.gl/Gu8WFt)
