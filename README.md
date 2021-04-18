@@ -3,6 +3,7 @@
 ## Контактная информация:
 * E-mail: [nikita.rub@yandex.ru](mailto:nikita.rub@yandex.ru) 
 * Телефон: [+79161084201](tel:+79161084201)
+* Telegram: [@nikitarub]([tel:+79161084201](https://t.me/nikitarub))
 
 
 # Опыт
